@@ -1,5 +1,5 @@
 # the-office-database
 
-Created a database using SQL for the show "The Office".  
+Following the video tutorial for learning SQL https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org, I created a database using SQL for the show "The Office".  
 
-Managing all the employees, branches, and suppliers with queries.
+Managed all the employees, branches, and suppliers with queries.
